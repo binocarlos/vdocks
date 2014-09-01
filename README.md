@@ -1,7 +1,7 @@
 vdock
 -----
 
-A combination of [arpanet](https://github.com/binocarlos/arpanet) and [mdock](https://github.com/binocarlos/arpanet).
+A combination of [arpanet](https://github.com/binocarlos/arpanet) and [mdock](https://github.com/binocarlos/mdock).
 
 vdock is the core code for the [viking](https://github.com/binocarlos/viking) master but without the opinionated PaaS parts around it.
 
