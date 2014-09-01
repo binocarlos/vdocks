@@ -1,6 +1,6 @@
 {
   "name": "vdock",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Combination of arpanet and mdock for a viking docker cluster",
   "main": "index.js",
   "scripts": {
