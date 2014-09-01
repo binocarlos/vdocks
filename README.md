@@ -47,9 +47,6 @@ slave.leave()
 
 // you can also grab the etcd client
 var etcd = vdock.etcd(options)
-
-// grab an endpoint to speak to a master
-var master = vdock.masteraddress(options)
 ```
 
 ## license
