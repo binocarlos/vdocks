@@ -1,5 +1,5 @@
 modules.exports = {
-	master:require('./master'),
-	slave:require('./slave'),
-	etcd:require('./etcd')
+	master:require('./lib/master'),
+	slave:require('./lib/slave'),
+	etcd:require('./lib/etcd')
 }
