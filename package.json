@@ -1,5 +1,5 @@
 {
-  "name": "vdock",
+  "name": "vdocks",
   "version": "0.0.4",
   "description": "Combination of arpanet and mdock for a viking docker cluster",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/binocarlos/vdock.git"
+    "url": "https://github.com/binocarlos/vdocks.git"
   },
   "keywords": [
     "docker",
@@ -19,9 +19,9 @@
   "author": "Kai Davenport",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binocarlos/vdock/issues"
+    "url": "https://github.com/binocarlos/vdocks/issues"
   },
-  "homepage": "https://github.com/binocarlos/vdock",
+  "homepage": "https://github.com/binocarlos/vdocks",
   "dependencies": {
     "routes-router": "^4.1.0",
     "async": "^0.9.0",
